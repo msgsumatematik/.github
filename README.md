@@ -1,0 +1,2 @@
+# .github
+MSGSU Matematik Topluluğu
