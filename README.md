@@ -1,2 +1,3 @@
 # .github
-MSGSU Matematik Topluluğu
+
+MSGSU Matematik Kulübü

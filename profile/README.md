@@ -1,1 +1,1 @@
-MSGSÜ Matematik Topluluğu
+MSGSÜ Matematik Kulübü
